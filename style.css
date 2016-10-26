@@ -1,0 +1,40 @@
+body {font-family:Open Sans;}
+h4 {margin-bottom:5px;margin-top:30px;}
+hr {
+border: 0;
+height: 5px;
+background-color: #eee;
+margin-top: 40px;
+margin-bottom: 40px;
+}
+a.wowflatbtn, a.wowflatbtn:hover {text-decoration:none;}
+a.wowflatbtn {
+opacity:1;
+line-height:1.4;
+text-align:center;
+min-width:100px;
+font-size:15px;
+padding:15px 25px;
+color:#fff;
+font-weight:700;
+text-transform:uppercase;
+margin-top:10px;
+margin-bottom:10px;
+display:inline-block;
+transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;}
+a.wowflatbtn.bd {border:1px solid rgba(0,0,0,0.1);} 
+a.wowflatbtn.sh {border-bottom:4px solid rgba(0,0,0,0.1);} 
+a.wowflatbtn.min {font-size:12px; padding:10px 20px; min-width:80px;}
+a.wowflatbtn.round {border-radius:4px;}
+a.wowflatbtn:hover {opacity:0.8;}
+a.wowflatbtn.turquoise {background-color:#1abc9c;}
+a.wowflatbtn.emerald {background-color:#2ecc71;}
+a.wowflatbtn.blue {background-color:#3498db;}
+a.wowflatbtn.amethyst {background-color:#9b59b6;}
+a.wowflatbtn.midnight {background-color:#34495e;}
+a.wowflatbtn.sunflower {background-color:#f1c40f;}
+a.wowflatbtn.pumpkin {background-color:#d35400;}
+a.wowflatbtn.alizarin {background-color:#e74c3c;}
+
